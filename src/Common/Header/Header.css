@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
+h1{
+    text-align: center;
+    width: 100%;
+}
+.head{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 5%;
+    font-size: 30px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+

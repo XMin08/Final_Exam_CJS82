@@ -1,0 +1,9 @@
+.complete{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 30%;
+}
+.deleteComplete{
+    margin-top: 15px;
+    margin-left: 60%;
+}

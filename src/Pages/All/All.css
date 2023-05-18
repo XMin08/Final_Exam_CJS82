@@ -1,0 +1,25 @@
+.main{
+    width: 80%;
+    padding: auto;
+    margin: auto;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.container input{
+    width: 50%;
+    margin-right: 5%;
+}
+button{
+    width: 8%;
+}
+.List{
+    width: 100%;
+    padding-top: 15px;
+    padding-left: 20%;
+    list-style: none;
+    font-size: 30px;
+    
+}
